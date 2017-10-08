@@ -11,16 +11,15 @@ with support for Spotify, Google Play Music, YouTube, SoundCloud and
 
 ## OpenMAX IL
 
-Tizonia is also the first open-source implementation of the [OpenMAX IL 1.2
+Tizonia is the first open-source implementation of the [OpenMAX IL 1.2
 provisional
 specification](http://www.khronos.org/news/press/khronos-group-releases-openmax-il-1.2-provisional-specification).
 
 [OpenMAX
 IL](http://www.juanrubio.me/2012/02/khronos-releases-openmax-il-1-2-as-a-provisional-spec/)
-is an open standard produced by [The Khronos
-Group](http://www.khronos.org/) that enables the
-development and integration of software and hardware accelerated media streaming
-components like audio/video encoders/decoders, camera, and audio, video and
+is an open standard produced by [The Khronos Group](http://www.khronos.org/)
+that enables the development and integration of software and hardware
+accelerated media streaming components like audio and video codecs, camera, and
 image processing algorithms.
 
 ## Tizonia in the Blogosphere
@@ -39,13 +38,17 @@ image processing algorithms.
 - Tizonia's website: [www.tizonia.org](http://tizonia.org)
 - Repos on [Github](https://github.com/tizonia/tizonia-openmax-il) and [Bitbucket](http://www.juanrubio.me/2013/03/howto-source-code-browsing-using-gnu-id-and-emacs/).
 - Documentation on [ReadTheDocs](http://tizonia-openmax-il.readthedocs.io/en/master/).
-- The project statistics in Open Hub:
+- Project stats in [Open Hub](https://www.openhub.net/p/tizonia):
 
 
 <table style="width:100%">
   <tr>
     <th><script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_factoids_stats?format=js'></script></th>
+  </tr>
+  <tr>
     <th><script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_languages?format=js'></script></th>
+  </tr>
+  <tr>
     <th><script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_cocomo?format=js'></script></th>
   </tr>
 </table>
