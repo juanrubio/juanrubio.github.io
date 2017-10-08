@@ -7,19 +7,21 @@ title: About Tizonia
 
 [Tizonia](http://tizonia.org) is a cloud music player for the Linux console
 with support for Spotify, Google Play Music, YouTube, SoundCloud and
-Dirble. Chromecast support is also coming very soon.
+[Dirble](https://dirble.com/). Chromecast support is also coming very soon.
 
 ## OpenMAX IL
 
-Tizonia is also an open-source implementation of the [OpenMAX IL 1.2
+Tizonia is also the first open-source implementation of the [OpenMAX IL 1.2
 provisional
-specification](http://www.khronos.org/news/press/khronos-group-releases-openmax-il-1.2-provisional-specification). [OpenMAX
+specification](http://www.khronos.org/news/press/khronos-group-releases-openmax-il-1.2-provisional-specification).
+
+[OpenMAX
 IL](http://www.juanrubio.me/2012/02/khronos-releases-openmax-il-1-2-as-a-provisional-spec/)
-is an open standard from [The Khronos
-Group](http://www.juanrubio.me/projects/www.khronos.org/) that enables the
-creation and integration of software and hardware accelerated media streaming
+is an open standard produced by [The Khronos
+Group](http://www.khronos.org/) that enables the
+development and integration of software and hardware accelerated media streaming
 components like audio/video encoders/decoders, camera, and audio, video and
-image processing algorithms. If interested, please check it out.
+image processing algorithms.
 
 ## Tizonia in the Blogosphere
 
@@ -39,8 +41,12 @@ image processing algorithms. If interested, please check it out.
 - Documentation on [ReadTheDocs](http://tizonia-openmax-il.readthedocs.io/en/master/).
 - The project statistics in Open Hub:
 
-<script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_factoids_stats?format=js'></script>
 
-<script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_languages?format=js'></script>
+<table style="width:100%">
+  <tr>
+    <th><script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_factoids_stats?format=js'></script></th>
+    <th><script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_languages?format=js'></script></th>
+    <th><script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_cocomo?format=js'></script></th>
+  </tr>
+</table>
 
-<script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_cocomo?format=js'></script>
