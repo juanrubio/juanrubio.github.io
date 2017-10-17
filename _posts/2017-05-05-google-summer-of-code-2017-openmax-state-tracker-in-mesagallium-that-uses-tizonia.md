@@ -1,6 +1,6 @@
 ---
 id: 739
-title: 'Google Summer of Code 2017:  &#8220;OpenMAX state tracker in Mesa/Gallium that uses Tizonia&#8221;'
+title: Google Summer of Code 2017: &#8220;OpenMAX state tracker in Mesa/Gallium that uses Tizonia&#8221;'
 date: 2017-05-05T11:41:10+00:00
 author: joni
 layout: post
