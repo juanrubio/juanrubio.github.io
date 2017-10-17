@@ -22,7 +22,7 @@ Congratulations to Gurkirpal, Julien Isorce (Mentor) and the X.Org Foundation.
 
 Looking forward to supporting Gurkirpal and Julien this summer.
 
-![tizonia-gsoc-projects-2017](wp-content/uploads/2017/05/tizonia-gsoc-projects-2017.png){:class="img-responsive"}
+![tizonia-gsoc-projects-2017](http://www.juanrubio.me/wp-content/uploads/2017/05/tizonia-gsoc-projects-2017.png){:class="img-responsive"}
 
 See also:
 
