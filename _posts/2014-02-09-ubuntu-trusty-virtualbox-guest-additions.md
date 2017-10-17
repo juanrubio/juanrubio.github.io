@@ -47,7 +47,7 @@ $ software-properties-gtk --open-tab=4
     <div class="figure">
       <p>
         <img src="http://www.juanrubio.me/wp-content/uploads/2014/02/wpid-software-properties-gtk-tab4.png" alt="wpid-software-properties-gtk-tab4.png" />
-      </p></p>
+      </p>
     </div>
   </li>
   
