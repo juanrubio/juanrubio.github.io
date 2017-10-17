@@ -38,10 +38,10 @@ image processing algorithms.
 - Tizonia's website: [www.tizonia.org](http://tizonia.org)
 - Repos on [Github](https://github.com/tizonia/tizonia-openmax-il) and [Bitbucket](http://www.juanrubio.me/2013/03/howto-source-code-browsing-using-gnu-id-and-emacs/).
 - Documentation on [ReadTheDocs](http://tizonia-openmax-il.readthedocs.io/en/master/).
-- Project stats in [Open Hub](https://www.openhub.net/p/tizonia):
+- Project stats on [Open Hub](https://www.openhub.net/p/tizonia):
 
 
-<table style="width:100%">
+<table>
   <tr>
     <th><script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_factoids_stats?format=js'></script></th>
   </tr>
