@@ -33,3 +33,5 @@ The code is hosted on <a title="Tizonia Op0enMAX IL on GitHub" href="http://gith
 There is still a ton of quality work to be done plus a number of critical APIs that are missing in the base framework, so there is still no date for the first &#8220;official&#8221; release. However, functionality wise, with Base and tunnelled communication working decently, I believe there is enough already to make it worth sharing.
 
 I hope people can find Tizonia a useful platform to experiment with and try the new OpenMAX IL 1.2 features that Khronos anticipated in the provisional specification. At least, I had some good fun myself while working on it.
+
+<br>

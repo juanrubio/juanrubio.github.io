@@ -23,3 +23,5 @@ However, in order to get these newer kernels you either need to install a system
 </pre>
 
 In case anyone wonder, the fresh Ubuntu 12.04 installation fixed [the problem](http://askubuntu.com/questions/264362/ubuntu-12-04-freeze-after-changing-graphic-card) I was experiencing with the graphics. But to be completely honest, I still don&#8217;t know exactly why it did.
+
+<br>

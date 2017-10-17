@@ -59,3 +59,5 @@ Finally, there are a number of other packages that offer similar functionality:
 
   * <a title="iswitchb @ EmacsWiki" href="http://www.emacswiki.org/emacs/IswitchBuffers" target="_blank">iswitchb</a>: Among other things, this package provides <span style="font-family: courier new,courier;">M-x iswitch-kill-buffer</span> which does the same job as <span style="font-family: courier new,courier;">M-x ido-kill-buffer</span>.
   * <a title="icicles @ EmacsWiki" href="http://www.emacswiki.org/emacs/Icicles" target="_blank">icicles</a>: This package is similar in essence to _**Ido**_, however it is much more generic and big and the interface is a little bit different. Normally, you use one or the other but not both at the same time. I&#8217;ve tried it in the past, but I found its interface and general feeling less intuitive than _**Ido**_. However, I&#8217;m know this is because I didn&#8217;t give it enough time to completely adjust to its philosophy.
+
+<br>

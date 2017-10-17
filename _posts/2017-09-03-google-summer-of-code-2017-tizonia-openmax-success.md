@@ -31,3 +31,5 @@ comparison](https://singhcodes.wordpress.com/2017/08/04/gsoc-2017-third-phase-st
 
 Also, see:
 * [Phoronix : OMX Tizonia Gallium3D State Tracker Sent Out For Review](https://www.phoronix.com/scan.php?page=news_item&px=Tizonia-G3D-Patches-For-Review)
+* [Google Summer of Code 2017: OpenMAX state tracker in Mesa/Gallium that uses Tizonia]({{ site.baseurl }}{% link _posts/2017-05-05-google-summer-of-code-2017-openmax-state-tracker-in-mesagallium-that-uses-tizonia.md %})
+<br>

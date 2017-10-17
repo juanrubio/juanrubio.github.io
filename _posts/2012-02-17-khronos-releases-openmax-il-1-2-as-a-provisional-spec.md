@@ -48,3 +48,5 @@ But what it is really important here in my opinion, is that Khronos has <a title
 From a personal point of view, I&#8217;m very happy to see that this new spec is finally out, as I had the great honor of collaborating with the Khronos IL WG between 2008 and 2011, during the time I worked for Symbian and Nokia. All in all, I can only say big kudos to the IL WG!
 
 You can read more about the new specification and its improved capabilities in the Khronos  <a title="OpenMAX IL 1.2 provisional spec press release" href="http://www.khronos.org/news/press/khronos-group-releases-openmax-il-1.2-provisional-specification" target="_blank">press release</a>.
+
+<br>

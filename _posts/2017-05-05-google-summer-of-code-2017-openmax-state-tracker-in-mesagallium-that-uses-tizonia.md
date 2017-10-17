@@ -27,3 +27,4 @@ Looking forward to supporting Gurkirpal and Julien this summer.
 See also:
 
   * <a href="https://www.phoronix.com/scan.php?page=news_item&px=GSoC-2017-Projects" target="_blank" rel="noopener noreferrer">Exciting GSoC 2017 Projects: Vulkan Software Renderer, Kodi On Wayland, Much More</a>
+<br>
