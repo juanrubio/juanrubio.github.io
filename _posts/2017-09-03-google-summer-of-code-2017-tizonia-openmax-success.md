@@ -13,12 +13,15 @@ categories:
   - Uncategorized
 ---
 
-Congratulations to [Gurkirpal Singh](https://singhcodes.wordpress.com/) for 's
+Congratulations to [Gurkirpal Singh](https://singhcodes.wordpress.com/) for a very successful
 GSoC 2017 project with the [X.Org
-Foundation](https://www.x.org/wiki/XorgFoundation/) called <a
-href="https://summerofcode.withgoogle.com/projects/#4737166321123328"
+Foundation](https://www.x.org/wiki/XorgFoundation/): the project called
+
+<p class="lead">
+<a href="https://summerofcode.withgoogle.com/projects/#4737166321123328"
 target="_blank" rel="noopener noreferrer">OpenMAX state tracker in Mesa/Gallium
 that uses Tizonia</a>.
+</p>
 
 For more information on the work produced, see Gurkipal's [end-of-project
 report](https://singhcodes.wordpress.com/2017/08/22/gsoc-2017-project-summary-success/). And
