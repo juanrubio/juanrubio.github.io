@@ -21,7 +21,7 @@ I googled around and I found a very [useful thread](http://ubuntuforums.org/show
     Remove the existing <code>Guest Additions</code> using the script under <code>/opt</code>: <div class="org-src-container">
       <pre class="brush: plain; light: true; title: ; notranslate" title="">
 $ /opt/VBoxGuestAdditions-4.3.6/uninstall.sh
-</pre></p>
+</pre>
     </div>
   </li>
   
@@ -29,7 +29,7 @@ $ /opt/VBoxGuestAdditions-4.3.6/uninstall.sh
     Install the <a href="http://packages.ubuntu.com/trusty/virtualbox-guest-additions-iso">Guest Additions Iso</a> using the package system <div class="org-src-container">
       <pre class="brush: plain; light: true; title: ; notranslate" title="">
 $ sudo apt-get install virtualbox-guest-additions-iso
-</pre></p>
+</pre>
     </div>
   </li>
   
@@ -41,7 +41,7 @@ $ sudo apt-get install virtualbox-guest-additions-iso
     <div class="org-src-container">
       <pre class="brush: plain; light: true; title: ; notranslate" title="">
 $ software-properties-gtk --open-tab=4
-</pre></p>
+</pre>
     </div>
     
     <div class="figure">
@@ -69,7 +69,7 @@ $ software-properties-gtk --open-tab=4
         From today, this solution appears to be broken. Presumably, the latest upgrades pushed to the 14.04 repos have somehow broken it, most likely temporarily. I&#8217;ll update again this post if I find it working again. But in the meantime, you&#8217;ve been warned! 🙂
       </li>
     </ul>
-  </div></p>
+  </div>
 </div>
 
 <div id="outline-container-sec-2" class="outline-2">
@@ -83,5 +83,5 @@ $ software-properties-gtk --open-tab=4
         As it turns out, there is a test build of the Guest Additions iso (v4.3.7) that installs without problems and fixes the issues. Thanks to AnimeMuyou and Martin for pointing this out (look for the links in the Replies section).
       </li>
     </ul>
-  </div></p>
+  </div>
 </div>

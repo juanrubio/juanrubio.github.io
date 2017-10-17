@@ -22,7 +22,7 @@ Here it is a short HowTo on how I use [GNU ID Utils](http://www.gnu.org/software
     <pre class="brush: plain; light: true; title: ; notranslate" title="">
 $ dpkg -l | grep id-utils
 ii  id-utils  4.5-3  Fast, high-capacity, identifier database tool
-</pre></p>
+</pre>
   </div>
   
   <div id="outline-container-1-1" class="outline-3">
@@ -34,8 +34,8 @@ ii  id-utils  4.5-3  Fast, high-capacity, identifier database tool
       <pre class="brush: plain; light: true; title: ; notranslate" title="">
 $ sudo apt-get install id-utils
 </pre></p>
-    </div></p>
-  </div></p>
+    </div>
+  </div>
 </div>
 
 <div id="outline-container-2" class="outline-2">
@@ -54,8 +54,8 @@ $ wget http://ftp.gnu.org/gnu/idutils/idutils-4.5.tar.xz
 $ xz -d idutils-4.5.tar.xz
 $ tar xvf idutils-4.5.tar
 $ cp idutils-4.5/lisp/idutils.el "somewhere where emacs can find it"
-</pre></p>
-  </div></p>
+</pre>
+  </div>
 </div>
 
 <div id="outline-container-3" class="outline-2">
@@ -73,8 +73,8 @@ $ cp idutils-4.5/lisp/idutils.el "somewhere where emacs can find it"
 ;; M-x gid to run the command
 ;; more info at http://www.gnu.org/software/idutils/manual/idutils.html
 (autoload 'gid "idutils" nil t)
-</pre></p>
-  </div></p>
+</pre>
+  </div>
 </div>
 
 <div id="outline-container-4" class="outline-2">
@@ -90,8 +90,8 @@ $ cp idutils-4.5/lisp/idutils.el "somewhere where emacs can find it"
     <pre class="brush: plain; light: true; title: ; notranslate" title="">
 $ cd "your favorite project"
 $ mkid -s /usr/include/ .
-</pre></p>
-  </div></p>
+</pre>
+  </div>
 </div>
 
 <div id="outline-container-5" class="outline-2">
@@ -171,7 +171,7 @@ Gid finished at Wed Apr 10 12:57:01
         <a href="http://cedet.sourceforge.net/">CEDET</a> and <a href="http://ecb.sourceforge.net/">ECB</a>
       </li>
     </ul>
-  </div></p>
+  </div>
 </div>
 
 <div id="outline-container-7" class="outline-2">
@@ -191,5 +191,5 @@ Gid finished at Wed Apr 10 12:57:01
         <a href="http://directory.fsf.org/wiki/Idutils">http://directory.fsf.org/wiki/Idutils</a>
       </li>
     </ul>
-  </div></p>
+  </div>
 </div>
