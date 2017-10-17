@@ -14,8 +14,8 @@ categories:
 ---
 
 Congratulations to [Gurkirpal Singh](https://singhcodes.wordpress.com/) for a very successful
-GSoC 2017 project with the [X.Org
-Foundation](https://www.x.org/wiki/XorgFoundation/): the project called
+GSoC 2017 with the [X.Org
+Foundation](https://www.x.org/wiki/XorgFoundation/) with the project:
 
 <p class="lead">
 <a href="https://summerofcode.withgoogle.com/projects/#4737166321123328"
