@@ -5,12 +5,12 @@ title: About Me
 
 Welcome to my site.
 
-My name is Juan A. Rubio and I am a Software Consultant specialised in C and
-C++ development. Over the years I have worked in telecommunications, mobile and
-embedded software development environments. I am a passionate Open Source
-advocate and Linux enthusiast. Next to my love for telecomms and Linux, one
-area of keen interest for me is multimedia frameworks and audio/video
-hardware-acceleration APIs.
+My name is Juan A. Rubio and I am an experienced Software Consultant
+specialised in C and C++ development. Over the years I have worked in
+telecommunications, mobile and embedded software development environments. I am
+a passionate Open Source advocate and Linux enthusiast. Next to my love for
+telecomms and Linux, another area of keen interest for me is multimedia
+frameworks and audio/video hardware-accelerated APIs.
 
 I live in the UK and I work as a Software Consultant through my own company,
 [Aratelia Limited](http://aratelia.com/). In the past I have worked for
