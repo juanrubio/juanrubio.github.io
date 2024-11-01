@@ -30,7 +30,7 @@
 
 ## Prerequisites
 
-- You need to have a GitHub account. If you don't have one, [sign up here](https://github.com/join) - it takes one minute. This is where your website will live - if you sign up with username `johnsmith` then your website will be `http://johnsmith.github.io`.
+- You'll need a GitHub account to host your website. If you don’t have one yet, you can sign up here—it only takes a minute. Once set up, your website will be accessible at a URL based on your username, like http://<your-username>.github.io (e.g., if your username is johnsmith, your site will be http://johnsmith.github.io).
 - It would be helpful to understand what Markdown is and how to write it. Markdown is just a way to take a piece of text and format it to look a little nicer.  For example, this whole instruction set that you're reading is written in markdown - it's just text with some words being bold/larger/italicized/etc. I recommend taking 5 minutes to learn markdown [with this amazingly easy yet useful tutorial](http://markdowntutorial.com/).
 
 ## Build your website in 3 steps
