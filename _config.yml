@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://juanrubio.me"
+url: "https://juanrubio.me"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,18 +17,18 @@ baseurl: ""
 title: Juan A. Rubio
 
 # Short description of your site
-description: Independent Software Consultant
+description: Experienced software engineer, open source builder, now exploring AI engineering
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  The Tizonia Project:
-    - About: "about-tizonia"
-    - Website: "http://tizonia.org"
-    - GitHub: "http://github.com/tizonia/tizonia-openmax-il"
-  Aratelia Limited: "http://www.aratelia.com"
+  About: "aboutme"
+  Tags: "tags"
+  Projects:
+    - Tizonia: "about-tizonia"
+    - GitHub: "http://github.com/juanrubio"
+    - Aratelia: "http://www.aratelia.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -92,9 +92,9 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
-  google: true
+  google: false
   linkedin: true
 
 # How to display the link to the website in the footer
@@ -105,6 +105,10 @@ url-pretty: "juanrubio.me"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-21817639-1"
+
+# Optional social handle used in Twitter cards
+# author:
+#   twitter: yourhandle
 
 # Google Tag Manager ID
 #gtm: ""
@@ -175,6 +179,8 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - vendor
+  - .bundle
 
 # prose.io config
 prose:

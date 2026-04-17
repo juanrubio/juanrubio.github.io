@@ -8,29 +8,30 @@ layout: null
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 18px;
-  color: #404040;
+  font-size: 19px;
+  color: #2f3440;
   position: relative;
-  background-color: {{ site.page-col }};
+  background-color: #fbfbf8;
   {% if site.page-img %}
-  background-image: url({{ site.page-img }});
-  background-attachment: fixed;
+  background-image: none;
+  background-attachment: scroll;
   {% endif %}
 }
 p {
-  line-height: 1.5;
-  margin: 30px 0;
+  line-height: 1.8;
+  margin: 22px 0;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
+  line-height: 1.2;
 }
 a {
-  color: {{ site.link-col }};
+  color: #1f5f8b;
 }
 a:hover,
 a:focus {
-  color: {{ site.hover-col }};
+  color: #174765;
 }
 blockquote {
   color: #808080;
@@ -48,11 +49,11 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 80px;
+  padding-top: 90px;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
-    padding-top: 130px;
+    padding-top: 120px;
   }
 }
 
@@ -106,19 +107,20 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col }};
-  border-bottom: 1px solid #EAEAEA;
+  background-color: rgba(251, 251, 248, 0.96);
+  border-bottom: 1px solid #e8e5df;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03);
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
-  background-image: url({{ site.navbar-img }});
-  background-attachment: fixed;
+  background-image: none;
+  background-attachment: scroll;
   {% endif %}
 }
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
   font-size: 12px;
-  letter-spacing: 1px;
+  letter-spacing: 1.2px;
 }
 
 .navbar-custom .navbar-brand,
@@ -262,13 +264,13 @@ img {
 
 footer {
   padding: 30px 0;
-  border-top: 1px #EAEAEA solid;
-  margin-top: 50px;
+  border-top: 1px #e8e5df solid;
+  margin-top: 70px;
   font-size: 14px;
-  background-color: {{ site.footer-col }};
+  background-color: #f6f3ee;
   {% if site.footer-img %}
-  background-image: url({{ site.footer-img }});
-  background-attachment: fixed;
+  background-image: none;
+  background-attachment: scroll;
   {% endif %}
 }
 
@@ -309,13 +311,13 @@ footer .theme-by {
 /* --- Post preview --- */
 
 .post-preview {
-  padding: 20px 0;
-  border-bottom: 1px solid #eee;
+  padding: 28px 0;
+  border-bottom: 1px solid #e8e5df;
 }
 
 @media only screen and (min-width: 768px) {
   .post-preview {
-    padding: 35px 0;
+    padding: 42px 0;
   }
 }
 
@@ -335,20 +337,23 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
-  font-size: 30px;
+  font-size: 32px;
   margin-top: 0;
+  margin-bottom: 12px;
 }
 .post-preview .post-subtitle {
   margin: 0;
   font-weight: 300;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
+  color: #4a5563;
+  line-height: 1.45;
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
-  font-size: 18px;
+  color: #7a7f87;
+  font-size: 16px;
   font-style: italic;
-  margin: 0 0 10px;
+  margin: 0 0 14px;
 }
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -381,7 +386,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 36px;
+    font-size: 40px;
   }
 }
 
@@ -433,7 +438,7 @@ footer .theme-by {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 80px 0 20px;
+  margin: 60px 0 10px;
   position: relative;
 }
 .intro-header.big-img {
@@ -535,10 +540,10 @@ footer .theme-by {
 
 .header-section.has-img .no-img {
   margin-top: 0;
-  background-color: #FCFCFC;
+  background-color: #fdfcf9;
   margin: 0 0 40px;
-  padding: 20px 0;
-  box-shadow: 0 0 5px #AAA;
+  padding: 24px 0;
+  box-shadow: none;
 }
 /* Many phones are 320 or 360px, so make sure images are a proper aspect ratio in those cases */
 .header-section.has-img .intro-header.no-img {
@@ -702,6 +707,22 @@ td.gutter {
 
 #social-share-section {
   margin-bottom: 30px;
+}
+
+.container[role="main"],
+.blog-post {
+  font-size: 1.02em;
+}
+
+.blog-post p,
+.post-entry {
+  max-width: 44em;
+}
+
+.blog-post h2,
+.blog-post h3,
+.blog-post h4 {
+  margin-top: 1.8em;
 }
 
 /* --- Notification boxes --- */

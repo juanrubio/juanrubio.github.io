@@ -1,13 +1,7 @@
-# project
-_site
-.sass-cache
-.vagrant
-
-# general
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
 .DS_Store
-Thumbs.db
-ehthumbs.db
-
-
-# emacs backups
-*~

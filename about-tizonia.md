@@ -3,55 +3,56 @@ layout: page
 title: About Tizonia
 ---
 
-## Tizonia
+[Tizonia](http://tizonia.org) is one of the most important open source projects
+I've worked on.
 
-[Tizonia](http://tizonia.org) is a cloud music player for the Linux console
-with support for Spotify, Google Play Music, YouTube, SoundCloud and
-[Dirble](https://dirble.com/). Chromecast support is also coming very soon.
+At its core, Tizonia is a cloud music player for the Linux console. It was built
+around the idea that the terminal could still be a first-class place for media,
+not just for system administration. Over time it grew support for services like
+Spotify, YouTube, SoundCloud, Google Play Music, and more.
+
+What made the project especially interesting to me was not only the user-facing
+part, but the systems work underneath it.
 
 ## OpenMAX IL
 
-Tizonia is the first open-source implementation of the [OpenMAX IL 1.2
+Tizonia became the first open source implementation of the [OpenMAX IL 1.2
 provisional
 specification](http://www.khronos.org/news/press/khronos-group-releases-openmax-il-1.2-provisional-specification).
 
 [OpenMAX
 IL](http://www.juanrubio.me/2012/02/khronos-releases-openmax-il-1-2-as-a-provisional-spec/)
-is an open standard produced by [The Khronos Group](http://www.khronos.org/)
-that enables the development and integration of software and hardware
-accelerated media streaming components like audio and video codecs, camera, and
-image processing algorithms.
+is an open standard from [The Khronos Group](http://www.khronos.org/) for media
+pipelines and hardware-accelerated components such as audio and video codecs,
+camera pipelines, and image processing blocks.
 
-## Tizonia in the Blogosphere
+That work sits very much in the part of software engineering I enjoy most:
+building robust systems close to the platform, while still producing something
+people can actually use.
 
-- [Command Line Music Player for Spotify, YouTube & Other Streaming Services (OMG! Ubuntu!)](http://www.omgubuntu.co.uk/2017/11/listen-spotify-youtube-music-streaming-services-command-line)
-- [Tizonia: cloud music from the terminal (Tuxdiary)](http://tuxdiary.com/2016/06/25/tizonia/)
-- [Tizonia – A Command Line Music Player for Linux (LinOxide)](http://linoxide.com/tools/tizonia-command-line-music-player-linux/)
-- [Tizonia: A Command-line Music Streaming Client for Linux (Fossmint)](https://www.fossmint.com/tizonia-command-line-music-client-for-linux/)
-- [Escuchar música desde la nube con la terminal (DesdeLinux – Spanish)](https://blog.desdelinux.net/escuchar-musica-desde-la-nube-con-la-terminal/)
-- [Tizonia, un reproductor online para el terminal en Ubuntu, Linux Mint, etc (El Atareao - Spanish)](https://www.atareao.es/software/sonido/tizonia-reproductor-online-para-el-terminal/)
-- [Tizonia – Un lecteur de musique pour Linux (French)](https://linuxtaka.wordpress.com/2017/04/22/tizonia-un-lecteur-de-musique-pour-linux/)
-- [X.Org Has Been Accepted For The 2017 Google Summer of Code (Phoronix)](https://www.phoronix.com/scan.php?page=news_item&px=Xorg-GSoC-2017)
-- [OpenMAX state tracker in Mesa/Gallium that uses Tizonia (Google Summer of Code 2017)](https://summerofcode.withgoogle.com/projects/#4737166321123328)
-- [Exciting GSoC 2017 Projects: Vulkan Software Renderer, Kodi On Wayland, Much More (Phoronix)](https://www.phoronix.com/scan.php?page=news_item&px=GSoC-2017-Projects)
+## Coverage and project history
 
-## Tizonia Development
+Tizonia received a nice amount of attention over the years, including coverage
+from:
 
-- Tizonia's website: [www.tizonia.org](http://tizonia.org)
-- Repos on [Github](https://github.com/tizonia/tizonia-openmax-il) and [Bitbucket](http://www.juanrubio.me/2013/03/howto-source-code-browsing-using-gnu-id-and-emacs/).
-- Documentation on [ReadTheDocs](http://tizonia-openmax-il.readthedocs.io/en/master/).
-- Project stats on [Open Hub](https://www.openhub.net/p/tizonia):
+- [OMG! Ubuntu!](http://www.omgubuntu.co.uk/2017/11/listen-spotify-youtube-music-streaming-services-command-line)
+- [Tuxdiary](http://tuxdiary.com/2016/06/25/tizonia/)
+- [LinOxide](http://linoxide.com/tools/tizonia-command-line-music-player-linux/)
+- [Fossmint](https://www.fossmint.com/tizonia-command-line-music-client-for-linux/)
+- [DesdeLinux](https://blog.desdelinux.net/escuchar-musica-desde-la-nube-con-la-terminal/)
+- [El Atareao](https://www.atareao.es/software/sonido/tizonia-reproductor-online-para-el-terminal/)
+- [Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Xorg-GSoC-2017)
 
+There was also related Google Summer of Code work around Mesa/Gallium and
+OpenMAX state tracking built on top of Tizonia.
 
-<table>
-  <tr>
-    <th><script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_factoids_stats?format=js'></script></th>
-  </tr>
-  <tr>
-    <th><script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_languages?format=js'></script></th>
-  </tr>
-  <tr>
-    <th><script type='text/javascript' src='https://www.openhub.net/p/tizonia/widgets/project_cocomo?format=js'></script></th>
-  </tr>
-</table>
+## Links
+
+- Website: [tizonia.org](http://tizonia.org)
+- GitHub: [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il)
+- Documentation: [Read the Docs](http://tizonia-openmax-il.readthedocs.io/en/master/)
+
+Tizonia still represents a lot of what I value in engineering work: technical
+depth, open standards, practical usefulness, and the slightly stubborn belief
+that interesting software can exist outside the obvious mainstream interfaces.
 
